@@ -1,0 +1,14 @@
+/build
+/dist
+/*.egg
+/*.egg-info
+/**/__pycache__/
+*.pyc
+
+#app
+playtime_log.json
+settings.json
+
+
+#pyinstaller
+parental_control.spec
